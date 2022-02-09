@@ -1,0 +1,14 @@
+button.wowclass{
+    background-color: black;
+    color:white
+}
+
+button.notawowclass{
+    background-color: yellow;
+}
+
+button.notawowclass,
+button.wowclass{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
